@@ -1,6 +1,13 @@
 # Developed in Ubuntu
-Install PyQt
+
+## Install PyQt
+
 $ sudo apt-get install python3-pyqt5
 
-Install QtWebKit
+## Install QtWebKit
+
 $ sudo apt-get install python3-pyqt5.qtwebkit
+
+## To Run
+
+python3 browser.py
